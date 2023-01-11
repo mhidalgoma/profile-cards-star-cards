@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 0;
+  width: 100%;
+  height: 12vh;
+  &__link {
+    width: 201px;
+    height: 50px;
+    margin-left: 31px;
+  }
+  &__link__logo {
+    width: 100%;
+  }
+}
